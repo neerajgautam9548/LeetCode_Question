@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
