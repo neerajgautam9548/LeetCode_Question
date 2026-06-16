@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0231-power-of-two) |
+| [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
 ## Recursion
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
