@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0412-fizz-buzz) |
 | [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
 ## Recursion
 |  |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
