@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0412-fizz-buzz) |
+| [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
@@ -57,5 +58,10 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
