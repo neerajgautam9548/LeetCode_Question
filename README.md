@@ -13,6 +13,7 @@
 | [0412-fizz-buzz](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
