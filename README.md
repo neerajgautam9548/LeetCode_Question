@@ -25,6 +25,7 @@
 | [0078-subsets](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0136-single-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,11 +66,13 @@
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -82,4 +85,20 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
