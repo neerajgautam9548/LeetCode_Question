@@ -25,6 +25,7 @@
 | [0078-subsets](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0136-single-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@
 | [0412-fizz-buzz](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0412-fizz-buzz) |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
 | ------- |
