@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0231-power-of-two) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0412-fizz-buzz](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
