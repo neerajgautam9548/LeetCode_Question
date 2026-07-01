@@ -27,6 +27,7 @@
 | [0136-single-number](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0136-single-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +114,20 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
