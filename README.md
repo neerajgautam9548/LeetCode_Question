@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
