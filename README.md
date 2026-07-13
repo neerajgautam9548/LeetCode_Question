@@ -148,4 +148,8 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0086-partition-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
