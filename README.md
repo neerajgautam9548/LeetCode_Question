@@ -16,6 +16,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1492-the-kth-factor-of-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
