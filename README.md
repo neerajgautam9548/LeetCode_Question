@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
