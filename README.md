@@ -33,6 +33,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -79,6 +80,7 @@
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -88,6 +90,7 @@
 | [0217-contains-duplicate](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
