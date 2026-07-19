@@ -28,6 +28,7 @@
 | ------- |
 | [0078-subsets](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0767-reorganize-string](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neerajgautam9548/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
